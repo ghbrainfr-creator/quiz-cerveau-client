@@ -254,7 +254,7 @@ function ScoreFinal({ score, total, onRestart }) {
 
       {/* CTA LinkedIn */}
       <a
-        href="https://www.linkedin.com/in/nordine-mouaouia/"
+        href="https://www.linkedin.com/in/nordine-mouaouia-neurosciences-ia-immobilier/"
         target="_blank"
         rel="noopener noreferrer"
         style={{
@@ -292,7 +292,7 @@ function ScoreFinal({ score, total, onRestart }) {
       </button>
 
       <div style={{ textAlign: "center", marginTop: 16, fontSize: 11, color: C.mutedDark }}>
-        Nordine Mouaouia \u00b7 SYSTEME1-IMMO\u2122
+        Nordine Mouaouia · SYSTEME1-IMMO™
       </div>
     </div>
   );
@@ -363,7 +363,7 @@ export default function QuizCerveauClient() {
               textTransform: "uppercase", letterSpacing: "0.15em", padding: "5px 14px",
               background: `${C.primary}10`, borderRadius: 20, border: `1px solid ${C.primary}25`,
             }}>
-              SYSTEME1-IMMO\u2122 \u00b7 QUIZ INTERACTIF
+              SYSTEME1-IMMO™ · QUIZ INTERACTIF
             </div>
           </div>
 
