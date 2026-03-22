@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#15161E"/>
+      <stop offset="100%" style="stop-color:#181A25"/>
+    </linearGradient>
+    <linearGradient id="blue" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#72AAEE"/>
+      <stop offset="100%" style="stop-color:#4D8BD5"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="40%" r="40%">
+      <stop offset="0%" style="stop-color:#72AAEE;stop-opacity:0.12"/>
+      <stop offset="100%" style="stop-color:#72AAEE;stop-opacity:0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="600" cy="250" r="280" fill="url(#glow)"/>
+  <text x="600" y="200" text-anchor="middle" font-family="Inter, sans-serif" font-size="100" fill="#F0F0F0">🧠</text>
+  <text x="600" y="310" text-anchor="middle" font-family="Inter, sans-serif" font-weight="900" font-size="52" fill="#F0F0F0">Le Cerveau de Votre Client</text>
+  <text x="600" y="370" text-anchor="middle" font-family="Inter, sans-serif" font-weight="500" font-size="24" fill="#ABABAB">5 situations terrain · Quelle est la bonne approche ?</text>
+  <rect x="460" y="420" width="280" height="48" rx="12" fill="url(#blue)"/>
+  <text x="600" y="452" text-anchor="middle" font-family="Inter, sans-serif" font-weight="700" font-size="18" fill="white">Faire le quiz</text>
+  <text x="600" y="560" text-anchor="middle" font-family="Inter, sans-serif" font-weight="600" font-size="14" fill="#6B7280">Nordine Mouaouia · SYSTEME1-IMMO™</text>
+  <rect x="0" y="618" width="1200" height="12" fill="url(#blue)" opacity="0.3"/>
+</svg>
