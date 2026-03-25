@@ -1,9 +1,9 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
-import QuizCerveauClient from './QuizCerveauClient.jsx'
+import DiagnosticFriction from './DiagnosticFriction.jsx'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <QuizCerveauClient />
+    <DiagnosticFriction />
   </React.StrictMode>
 )
